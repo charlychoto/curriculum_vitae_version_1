@@ -1,0 +1,125 @@
+body{
+    background-color: #f3f3f3;
+}
+section#principal{
+    background-color: #f3f3f3;
+
+}
+
+section#imagen{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    background-color:#f3f3f3;
+    
+}
+
+
+
+
+h1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 90px;
+    font-family: 'Lobster', cursive;
+    color: rgb(97, 123, 124);
+    margin: 20px;
+    margin-bottom: 5px;
+    }
+#nover{
+    display:none;
+    }
+ #titulo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
+    font-size: 70px;
+ }   
+#inicio{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold';
+
+}
+#arriba{
+    background-color:gainsboro ;
+    font-size: 20px;
+    border-radius: 40px;
+}
+h2{
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+    margin-top: 5px;
+    font-family: 'Lobster';
+}
+h4{
+    font-size: 20px;
+}
+h5{
+    font-size: 20px;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+
+}
+nav ul li {
+    font-family: 'Lobster', cursive;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px 5px;
+    padding-left: 50px;
+}
+header{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(119, 236, 197);
+    margin-bottom: 5px;
+}
+section#uno{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold';
+    margin: 100px;
+    margin-bottom: 400px;
+    font-size: 30px;
+    background-color:#f4f4f4;
+    border: 50px;
+}
+section#dos{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold';
+    margin: 100px;
+    margin-bottom: 400px;
+    font-size: 30px;
+    background-color:#f3f3f3;
+    border: 50px;
+}
+section#tres{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold';
+    margin: 100px;
+    margin-bottom: 300px;
+    font-size: 30px;
+    background-color:#f3f3f3;
+    border: 50px;
+
+}
+section#cuatro{
+   
+    display: flex;
+    justify-content: right;
+    
+   
+}
+#boton{
+    font-size: 3rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold';
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-radius: 30px;
+    background-color: gainsboro;
+}
+
+
